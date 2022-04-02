@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="exercise">
+
+      <item>AirSquat|x11|Air-Squat.gif</item>
+      <item>Twist|20|Boat-Pose-Twist.gif</item>
+      <item>Burpees|30|Burpees-with-Push-Ups-1.gif</item>
+      <item>StepUp|10|Step-Up-Lunge.gif</item>
+      <item>SumoSq|x15|Sumo-Squat-Jumps.gif</item>
+      <item>PlankBur|x20|Plank-Jack-Burpees.gif</item>
+
+
+  </string-array>
+
+    <string-array name="Day_exercise">
+
+
+        <item> 0,1,2,3,4,5</item> <!--day1-->
+        <item>1,2,3,4,5</item><!--day2-->
+        <item>5,4,3,2,1</item>
+        <item>3,2,1,4,5</item>
+        <item>3,3,4,4,5</item>
+        <item>4,4,2,1,5,5,5,5,5,5,5,5</item>
+        <item> 0,2,3,4,5</item> <!--day1-->
+        <item>1,2,3,4,5</item><!--day2-->
+        <item>5,4,3,2,1</item>
+        <item>3,2,1,4,5</item>
+        <item>3,3,4,4,5</item>
+        <item>4,4,2,1,5,5,5,5,5,5,5,5</item>
+
+
+    </string-array>
+</resources>

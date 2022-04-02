@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FitnesAfter50</string>
+    <string name="slogan">Не дай себе загнуться!</string>
+    <string name="day">День</string>
+    <string name="days">Программа тренировок</string>
+    <string name="exercise">Упр.</string>
+    <string name="exercises">Упражнения.</string>
+    <string name="watting_message">Начнем работать через:</string>
+    <string name="start">Погнали</string>
+    <string name="next">Далее</string>
+    <string name="done">Это финиш!!</string>
+    <string name="waiting">Настраиваемся на работу!</string>
+</resources>
