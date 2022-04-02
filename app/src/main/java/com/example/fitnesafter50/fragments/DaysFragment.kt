@@ -23,7 +23,8 @@ class DaysFragment : Fragment(), DaysAdapter.Listener {
     private lateinit var binding: FragmentDaysBinding
     private val model: MainViewModel by activityViewModels()
     private var ab: ActionBar? = null
-//коммент
+//коммент новый
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?,
